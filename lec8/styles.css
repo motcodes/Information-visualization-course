@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+
+.sphere {
+  fill: #282857;
+}
+
+.country {
+  fill: rgb(75,110,75);
+  stroke: black;
+  stroke-opacity: 0.1;
+}
